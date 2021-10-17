@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="b1d8be91-a1a7-4e19-b6b9-3cf8c1d68ab7" name="olatu@OOLATUNJI 2021-10-17 22:29:44" runUser="OOLATUNJI\olatu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-10-17T22:29:44.2958067+01:00" queuing="2021-10-17T22:29:44.2958087+01:00" start="2021-10-17T22:29:38.9850682+01:00" finish="2021-10-17T22:29:44.7430920+01:00" />
+  <TestSettings name="default" id="172bc9cd-1347-49e7-a76f-5df7e104b194">
+    <Deployment runDeploymentRoot="olatu_OOLATUNJI_2021-10-17_22_29_44" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="ef2e975a-6208-4dff-834f-0e780c48025c" testId="d4338a77-1794-cc45-6725-64e69a70255b" testName="GetRegexPattern_Returns_CorrectRegexPattern(&quot;$++**&quot;)" computerName="OOLATUNJI" duration="00:00:00.0002270" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ef2e975a-6208-4dff-834f-0e780c48025c" />
+    <UnitTestResult executionId="060a44a5-32c7-474d-816e-60a1fd8767d8" testId="d9e57c8b-2819-1e19-3e3a-c844728000d0" testName="Wildcards_Returns_True_IfStringInInputMatchesPattern" computerName="OOLATUNJI" duration="00:00:00.0014390" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="060a44a5-32c7-474d-816e-60a1fd8767d8" />
+    <UnitTestResult executionId="067c20bc-363a-46de-bf13-39f814052dcc" testId="b87c01e3-df62-96d2-155a-e70ce79e5fc0" testName="GetRegexPattern_Returns_CorrectRegexPattern(&quot;*{1}&quot;)" computerName="OOLATUNJI" duration="00:00:00.0001930" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="067c20bc-363a-46de-bf13-39f814052dcc" />
+    <UnitTestResult executionId="aaa4a609-dc73-490c-9d11-278affc6aafd" testId="89c9b42c-10e2-553b-9ca3-107bef37d366" testName="Wildcards_Returns_False_IfStringInInputDoesNotMatchPattern" computerName="OOLATUNJI" duration="00:00:00.0658000" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aaa4a609-dc73-490c-9d11-278affc6aafd" />
+    <UnitTestResult executionId="b549c602-7867-4dda-ba73-780061a9cff8" testId="2c8d99f5-27a0-cff4-fcf5-bd6db825fdb2" testName="Wildcards_Returns_False_IfInputContainsMoreThanOneSpaceCharacters" computerName="OOLATUNJI" duration="00:00:00.2538830" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b549c602-7867-4dda-ba73-780061a9cff8" />
+    <UnitTestResult executionId="b3b83668-fc43-467d-9122-f9f34ab97e92" testId="a6f5a40c-aead-d5f6-7d70-ecd306af883e" testName="GetRegexPattern_Returns_CorrectRegexPattern(&quot;+&quot;)" computerName="OOLATUNJI" duration="00:00:00.3744800" startTime="2021-10-17T22:29:43.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b3b83668-fc43-467d-9122-f9f34ab97e92" />
+    <UnitTestResult executionId="685bb172-5c9b-41fd-a0d3-caf140f23d5e" testId="57146857-798b-5370-4a33-0f7d0c83aaca" testName="GetRegexPattern_Returns_CorrectRegexPattern(&quot;$**+*{2}&quot;)" computerName="OOLATUNJI" duration="00:00:00.0001970" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="685bb172-5c9b-41fd-a0d3-caf140f23d5e" />
+    <UnitTestResult executionId="81c2cb99-8b5d-43bc-bd58-8788538326b7" testId="332c2e02-e709-4b7c-7586-a33e7d546909" testName="GetRegexPattern_Returns_CorrectRegexPattern(&quot;$&quot;)" computerName="OOLATUNJI" duration="00:00:00.0004580" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="81c2cb99-8b5d-43bc-bd58-8788538326b7" />
+    <UnitTestResult executionId="bf5d12f1-e423-4045-8865-39529728ac9a" testId="88917ab5-83c3-6164-4fcf-b91cf48f7d06" testName="GetRegexPattern_Returns_CorrectRegexPattern(&quot;+++++*&quot;)" computerName="OOLATUNJI" duration="00:00:00.0002840" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bf5d12f1-e423-4045-8865-39529728ac9a" />
+    <UnitTestResult executionId="a29814a9-72df-48c0-97fb-6b95948765c6" testId="b5959122-cb24-f303-1b86-9089965408ad" testName="GetRegexPattern_Returns_CorrectRegexPattern(&quot;++*{5}&quot;)" computerName="OOLATUNJI" duration="00:00:00.0070500" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a29814a9-72df-48c0-97fb-6b95948765c6" />
+    <UnitTestResult executionId="9daec7a2-b9d0-4748-90af-2306a4ba3b6f" testId="8e2f55bd-46ba-e7f3-4386-8536f6c09ddb" testName="GetRegexPattern_Returns_CorrectRegexPattern(&quot;++&quot;)" computerName="OOLATUNJI" duration="00:00:00.0004160" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9daec7a2-b9d0-4748-90af-2306a4ba3b6f" />
+    <UnitTestResult executionId="0146b6dc-3046-4332-a5e8-2531dd4e1077" testId="61733a7e-edb8-f2d9-128d-6d83e8ca38a8" testName="GetRegexPattern_Returns_CorrectRegexPattern(&quot;*&quot;)" computerName="OOLATUNJI" duration="00:00:00.0001870" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0146b6dc-3046-4332-a5e8-2531dd4e1077" />
+    <UnitTestResult executionId="a715f0be-c9c7-4cdb-bd55-21f0e7250763" testId="7b84a5d6-637f-2ec0-a111-0dc2f7e16013" testName="Wildcards_Returns_False_IfInputDoesNotContainSpaceCharacter" computerName="OOLATUNJI" duration="00:00:00.0022060" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a715f0be-c9c7-4cdb-bd55-21f0e7250763" />
+    <UnitTestResult executionId="2462e59c-0dcc-4b71-be1f-e87576bd6f42" testId="3a8e112a-c331-5723-2022-c20cfdfd430a" testName="GetRegexPattern_Returns_CorrectRegexPattern(&quot;$++&quot;)" computerName="OOLATUNJI" duration="00:00:00.0001970" startTime="2021-10-17T22:29:44.0000000+01:00" endTime="2021-10-17T22:29:44.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2462e59c-0dcc-4b71-be1f-e87576bd6f42" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;+++++*&quot;)" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="88917ab5-83c3-6164-4fcf-b91cf48f7d06">
+      <Execution id="bf5d12f1-e423-4045-8865-39529728ac9a" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.RegexPatternServiceTest" name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;+++++*&quot;)" />
+    </UnitTest>
+    <UnitTest name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;++&quot;)" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="8e2f55bd-46ba-e7f3-4386-8536f6c09ddb">
+      <Execution id="9daec7a2-b9d0-4748-90af-2306a4ba3b6f" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.RegexPatternServiceTest" name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;++&quot;)" />
+    </UnitTest>
+    <UnitTest name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;++*{5}&quot;)" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="b5959122-cb24-f303-1b86-9089965408ad">
+      <Execution id="a29814a9-72df-48c0-97fb-6b95948765c6" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.RegexPatternServiceTest" name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;++*{5}&quot;)" />
+    </UnitTest>
+    <UnitTest name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;$++**&quot;)" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="d4338a77-1794-cc45-6725-64e69a70255b">
+      <Execution id="ef2e975a-6208-4dff-834f-0e780c48025c" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.RegexPatternServiceTest" name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;$++**&quot;)" />
+    </UnitTest>
+    <UnitTest name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;+&quot;)" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="a6f5a40c-aead-d5f6-7d70-ecd306af883e">
+      <Execution id="b3b83668-fc43-467d-9122-f9f34ab97e92" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.RegexPatternServiceTest" name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;+&quot;)" />
+    </UnitTest>
+    <UnitTest name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;$++&quot;)" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="3a8e112a-c331-5723-2022-c20cfdfd430a">
+      <Execution id="2462e59c-0dcc-4b71-be1f-e87576bd6f42" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.RegexPatternServiceTest" name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;$++&quot;)" />
+    </UnitTest>
+    <UnitTest name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;*{1}&quot;)" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="b87c01e3-df62-96d2-155a-e70ce79e5fc0">
+      <Execution id="067c20bc-363a-46de-bf13-39f814052dcc" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.RegexPatternServiceTest" name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;*{1}&quot;)" />
+    </UnitTest>
+    <UnitTest name="Wildcards_Returns_False_IfInputContainsMoreThanOneSpaceCharacters" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="2c8d99f5-27a0-cff4-fcf5-bd6db825fdb2">
+      <Execution id="b549c602-7867-4dda-ba73-780061a9cff8" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.WildcardsServiceTest" name="Wildcards_Returns_False_IfInputContainsMoreThanOneSpaceCharacters" />
+    </UnitTest>
+    <UnitTest name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;*&quot;)" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="61733a7e-edb8-f2d9-128d-6d83e8ca38a8">
+      <Execution id="0146b6dc-3046-4332-a5e8-2531dd4e1077" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.RegexPatternServiceTest" name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;*&quot;)" />
+    </UnitTest>
+    <UnitTest name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;$**+*{2}&quot;)" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="57146857-798b-5370-4a33-0f7d0c83aaca">
+      <Execution id="685bb172-5c9b-41fd-a0d3-caf140f23d5e" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.RegexPatternServiceTest" name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;$**+*{2}&quot;)" />
+    </UnitTest>
+    <UnitTest name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;$&quot;)" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="332c2e02-e709-4b7c-7586-a33e7d546909">
+      <Execution id="81c2cb99-8b5d-43bc-bd58-8788538326b7" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.RegexPatternServiceTest" name="GetRegexPattern_Returns_CorrectRegexPattern(&quot;$&quot;)" />
+    </UnitTest>
+    <UnitTest name="Wildcards_Returns_True_IfStringInInputMatchesPattern" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="d9e57c8b-2819-1e19-3e3a-c844728000d0">
+      <Execution id="060a44a5-32c7-474d-816e-60a1fd8767d8" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.WildcardsServiceTest" name="Wildcards_Returns_True_IfStringInInputMatchesPattern" />
+    </UnitTest>
+    <UnitTest name="Wildcards_Returns_False_IfInputDoesNotContainSpaceCharacter" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="7b84a5d6-637f-2ec0-a111-0dc2f7e16013">
+      <Execution id="a715f0be-c9c7-4cdb-bd55-21f0e7250763" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.WildcardsServiceTest" name="Wildcards_Returns_False_IfInputDoesNotContainSpaceCharacter" />
+    </UnitTest>
+    <UnitTest name="Wildcards_Returns_False_IfStringInInputDoesNotMatchPattern" storage="c:\users\olatu\projects\demo\awsm\wildcards\wildcards\wildcards.tests\bin\debug\net5.0\wildcards.tests.dll" id="89c9b42c-10e2-553b-9ca3-107bef37d366">
+      <Execution id="aaa4a609-dc73-490c-9d11-278affc6aafd" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Wildcards.Tests.WildcardsServiceTest" name="Wildcards_Returns_False_IfStringInInputDoesNotMatchPattern" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="d4338a77-1794-cc45-6725-64e69a70255b" executionId="ef2e975a-6208-4dff-834f-0e780c48025c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d9e57c8b-2819-1e19-3e3a-c844728000d0" executionId="060a44a5-32c7-474d-816e-60a1fd8767d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b87c01e3-df62-96d2-155a-e70ce79e5fc0" executionId="067c20bc-363a-46de-bf13-39f814052dcc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="89c9b42c-10e2-553b-9ca3-107bef37d366" executionId="aaa4a609-dc73-490c-9d11-278affc6aafd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2c8d99f5-27a0-cff4-fcf5-bd6db825fdb2" executionId="b549c602-7867-4dda-ba73-780061a9cff8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a6f5a40c-aead-d5f6-7d70-ecd306af883e" executionId="b3b83668-fc43-467d-9122-f9f34ab97e92" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57146857-798b-5370-4a33-0f7d0c83aaca" executionId="685bb172-5c9b-41fd-a0d3-caf140f23d5e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="332c2e02-e709-4b7c-7586-a33e7d546909" executionId="81c2cb99-8b5d-43bc-bd58-8788538326b7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="88917ab5-83c3-6164-4fcf-b91cf48f7d06" executionId="bf5d12f1-e423-4045-8865-39529728ac9a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5959122-cb24-f303-1b86-9089965408ad" executionId="a29814a9-72df-48c0-97fb-6b95948765c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8e2f55bd-46ba-e7f3-4386-8536f6c09ddb" executionId="9daec7a2-b9d0-4748-90af-2306a4ba3b6f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="61733a7e-edb8-f2d9-128d-6d83e8ca38a8" executionId="0146b6dc-3046-4332-a5e8-2531dd4e1077" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7b84a5d6-637f-2ec0-a111-0dc2f7e16013" executionId="a715f0be-c9c7-4cdb-bd55-21f0e7250763" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3a8e112a-c331-5723-2022-c20cfdfd430a" executionId="2462e59c-0dcc-4b71-be1f-e87576bd6f42" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="14" executed="14" passed="14" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.16.1.0: Test execution started&#xD;
+Running all tests in C:\Users\olatu\Projects\demo\AWSM\wildcards\Wildcards\Wildcards.Tests\bin\Debug\net5.0\Wildcards.Tests.dll&#xD;
+   NUnit3TestExecutor converted 14 of 14 NUnit test cases&#xD;
+NUnit Adapter 3.16.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
